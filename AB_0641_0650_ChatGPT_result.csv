@@ -1,0 +1,11 @@
+NO,Result,Reason
+AB_0641,Yes,Study data or code available at URL
+AB_0642,Yes,Study data or code available at URL
+AB_0643,No URL found,No explicit http/https URL found
+AB_0644,Yes,Study data or code available at URL
+AB_0645,Yes,Study data or code available at repository URL
+AB_0646,Yes,Study data or code available at URL
+AB_0647,Yes,Study data or code available at repository URL
+AB_0648,Yes,Study data or code available at URL
+AB_0649,No,URL explicitly refers to third-party registry without study outputs
+AB_0650,Yes,Study data or code available at URL

@@ -1,0 +1,11 @@
+NO,Result,Reason
+AB_0751,Yes,Research-related materials plausibly available at URL
+AB_0752,Yes,Study data or code available at repository URL
+AB_0753,No,URL explicitly refers to third-party registry without study outputs
+AB_0754,Yes,Study data or code available at repository URL
+AB_0755,Yes,Study data or code available at URL
+AB_0756,Yes,Research-related materials plausibly available at URL
+AB_0757,No URL found,No explicit http/https URL found
+AB_0758,Yes,Study data or code available at URL
+AB_0759,Yes,Study data or code available at URL
+AB_0760,Yes,Research-related materials plausibly available at URL
