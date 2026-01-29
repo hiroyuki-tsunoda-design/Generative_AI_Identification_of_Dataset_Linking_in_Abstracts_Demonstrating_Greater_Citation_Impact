@@ -1,0 +1,11 @@
+NO,Result,Reason
+AB_1461,Yes,Study dataset available via GitHub repository URL
+AB_1462,Yes,Study code available via GitHub repository URL
+AB_1463,Yes,Model and related resources available at project website
+AB_1464,Yes,Proposed method code available via GitHub URL
+AB_1465,Yes,Study dataset available at project website
+AB_1466,Yes,Study code open sourced via GitHub URL
+AB_1467,Yes,Study data and code publicly available via GitHub URL
+AB_1468,Yes,Study database resource provided for this research
+AB_1469,Yes,Study code released via GitHub URL
+AB_1470,No,URL refers to third-party analysis platform without study outputs

@@ -1,0 +1,11 @@
+NO,Result,Reason
+AB_1581,No,"URL explicitly refers to registration record, not study outputs"
+AB_1582,No,"URL explicitly refers to registration record, not study outputs"
+AB_1583,Yes,Study code available at GitHub repository URL
+AB_1584,Yes,Study code available at GitHub repository URL
+AB_1585,Yes,Study code available at GitHub repository URL
+AB_1586,Yes,Study code available at GitHub repository URL
+AB_1587,Yes,Study code available at GitHub repository URL
+AB_1588,Yes,Study dataset available via DOI repository URL
+AB_1589,No,"URL explicitly refers to registration record, not study outputs"
+AB_1590,Yes,Study code available at GitHub repository URL

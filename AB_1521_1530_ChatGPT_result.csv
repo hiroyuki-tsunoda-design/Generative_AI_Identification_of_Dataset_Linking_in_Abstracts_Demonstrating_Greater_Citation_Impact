@@ -1,0 +1,11 @@
+NO,Result,Reason
+AB_1521,Yes,Study dataset available via Zenodo DOI repository URL
+AB_1522,No,"URL explicitly refers to clinical trial registration, not study outputs"
+AB_1523,Yes,Study code available at GitHub repository URL
+AB_1524,Yes,Study dataset publicly available at project dataset webpage URL
+AB_1525,Yes,Study code available at GitHub repository URL
+AB_1526,Yes,Study code available at GitHub repository URL
+AB_1527,Yes,Study dataset available via DOI-linked repository and associated code
+AB_1528,Yes,Study code available at GitHub repository URL
+AB_1529,Yes,Study code available at GitHub repository URL
+AB_1530,No,"URL explicitly refers to PROSPERO systematic review registration, not study outputs"
